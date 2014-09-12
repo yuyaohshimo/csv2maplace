@@ -1,7 +1,7 @@
 csv2maplace
 ===========
 
-Convert csv file to Maplace format JSON to get lat/lng from Google Map API.
+Convert CSV file to Maplace format JSON to get lat/lng from Google Map API.
 
 #Installation
 
