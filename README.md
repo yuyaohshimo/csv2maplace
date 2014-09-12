@@ -1,7 +1,7 @@
 csv2maplace
 ===========
 
-Create Maplace template from csv.
+Convert csv file to Maplace format JSON.
 
 #Installation
 
